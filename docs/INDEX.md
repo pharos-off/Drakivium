@@ -9,7 +9,6 @@ Vous trouverez ici toutes les informations nécessaires pour installer, configur
 
 - [🚀 Installation](INSTALLATION.md)  
 - [⚙️ Configuration](CONFIGURATION.md)  
-- [🤝 Contribution](CONTRIBUTING.md)  
 
 ---
 
