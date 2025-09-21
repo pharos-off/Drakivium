@@ -14,12 +14,12 @@ Drakivium est un serveur pensé pour offrir une expérience unique, mélangeant 
 
 ---
 
-## 📂 Contenu du dépôt
-Ce dépôt GitHub peut contenir (selon l’évolution du projet) :
-- 📜 Les configurations publiques
-- 🔧 Des outils internes
-- 🖼️ Ressources annexes (images, documents, etc.)
-- 📖 Documentation liée au serveur
+## 📂 Structure de ce dépôt
+
+- `docs/` → documentation et guides (installation, configuration, règles techniques).  
+- `configs/` → fichiers de configuration du serveur.  
+- `src/` → code source ou plugins personnalisés.  
+- `assets/` → logos, bannières et ressources graphiques.  
 
 ---
 
