@@ -10,9 +10,6 @@ Vous trouverez ici toutes les informations nécessaires pour installer, configur
 - [🚀 Installation](INSTALLATION.md)  
 - [⚙️ Configuration](CONFIGURATION.md)  
 - [🤝 Contribution](CONTRIBUTING.md)  
-- [📜 Règles du serveur](RULES.md)  
-- [🗺️ Roadmap](ROADMAP.md)  
-- [❓ FAQ](FAQ.md)  
 
 ---
 
